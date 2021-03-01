@@ -5,3 +5,6 @@ Rebasing is important.
 It is so important that we should all learn about it.
 Now we need to rebase.
 What am i doing?
+First we do something meaningful.
+Then we ?
+
